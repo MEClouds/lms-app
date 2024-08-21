@@ -1,4 +1,6 @@
 {
   "title": "Hello world!",
-  "protected": "Protected page"
+  "protected": "Protected page",
+  "Dashboard": "Dashboard",
+  "Browse": "Browse"
 }
